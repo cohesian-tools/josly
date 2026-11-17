@@ -11,9 +11,9 @@ requires-python = ">=3.11"
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/Cohesian/josly"
-Documentation = "https://github.com/Cohesian/josly/blob/main/README.md"
-Issues = "https://github.com/Cohesian/josly/issues"
+Repository = "https://github.com/cohesian-tools/josly"
+Documentation = "https://github.com/cohesian-tools/josly/blob/main/README.md"
+Issues = "https://github.com/cohesian-tools/josly/issues"
 
 [project.scripts]
 josly = "josly.cli:main"

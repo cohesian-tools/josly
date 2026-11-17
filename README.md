@@ -5,13 +5,13 @@ Python 3.11+, standard-library runtime, macOS/Linux file locks.
 
 ## Install
 
-Install the tagged version from [GitHub](https://github.com/Cohesian/josly)
+Install the tagged version from [GitHub](https://github.com/cohesian-tools/josly)
 (Python 3.11+ and Git required):
 
 ```sh
 python3 -m venv .venv
 source .venv/bin/activate
-python -m pip install "josly @ git+https://github.com/Cohesian/josly.git@v0.2.1"
+python -m pip install "josly @ git+https://github.com/cohesian-tools/josly.git@v0.2.1"
 josly --version
 josly
 ```
@@ -19,7 +19,7 @@ josly
 For local development:
 
 ```sh
-git clone https://github.com/Cohesian/josly.git
+git clone https://github.com/cohesian-tools/josly.git
 cd josly
 python3 -m venv .venv
 source .venv/bin/activate

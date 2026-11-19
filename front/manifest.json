@@ -1,0 +1,35 @@
+{
+  "$schema": "./schema.json",
+  "schemaVersion": 1,
+  "id": "josly",
+  "kind": "tool",
+  "title": "Josly",
+  "description": "Store local JSON documents with portable typed schemas. Validate data and read or update individual properties from a CLI or Python.",
+  "programmingLanguage": "Python",
+  "labels": [
+    "JSON",
+    "Schemas",
+    "CLI"
+  ],
+  "cover": "assets/cover.svg",
+  "links": [
+    {
+      "label": "Repository",
+      "href": "https://github.com/cohesian-tools/josly"
+    },
+    {
+      "label": "Guide",
+      "href": "https://github.com/cohesian-tools/josly/blob/main/README.md"
+    }
+  ],
+  "licenses": [
+    {
+      "label": "Presentation · CC BY 4.0",
+      "href": "assets/licenses/CC-BY-4.0.txt"
+    },
+    {
+      "label": "Presentation attribution",
+      "href": "assets/licenses/NOTICE.txt"
+    }
+  ]
+}

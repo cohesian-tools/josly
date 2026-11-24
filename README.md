@@ -253,8 +253,3 @@ After installing locally, run from the repository root:
 ```sh
 python -m unittest discover -s tests -v
 ```
-
-## Presentation metadata
-
-[`front/`](front/README.md) contains the portable presentation manifest, cover,
-and applicable notices for catalogs such as Cohesian and a personal portfolio.
